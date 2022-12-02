@@ -1,4 +1,4 @@
-import random
+import 
 import os
 
 def logo_inicial():
